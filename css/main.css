@@ -88,13 +88,15 @@ Primary use:
 [ M-Text 16 - 25 ]*/
 .m1-txt1 {
   font-family: Poppins-Regular;
-  font-size: 18px;
+  font-size: 24px;
   color: #555;
   line-height: 1.2;
   text-transform: uppercase;
 }
 
-
+p {
+  font-size: 1.2rem;
+}
 
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
